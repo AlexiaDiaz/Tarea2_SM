@@ -8,3 +8,7 @@ A pesar de que Python es un programa fácil de aprender, las cosas se pueden com
 Debido a lo anterior y muchas otras razones Python se ha convertido en unos de los lenguajes de programación más populares y utilizados en los últimos años, aunque Guido van Rossum, un científico informático y creador de Pyhton, no se imaginaba el gran éxito que tendría su idea 30 años después. Es tan grande su éxito que a los practicantes o usuarios se les llama Pythonistas y junto con machine learning se han podido crear repertorios de paquetes de softwares que se pueden emplear en cualquier área, desde la audiovisual hasta la astronomía. 
 
 En conclusión, Python podría ser considerada la nueva lengua franca del código a consecuencia de su impacto en el mundo de las redes por su simplicidad y flexibilidad, aunque no podría reemplazar otros en el mercado. 
+
+Referencias
+http://anewdomain.net/spotlight-should-you-invest-in-python-training/
+https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language
